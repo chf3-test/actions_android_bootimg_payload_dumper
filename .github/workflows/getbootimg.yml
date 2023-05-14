@@ -1,5 +1,5 @@
 name: get_bootimg_from_payload.bin
-#h
+
 on:
   watch:
     types: [started]
